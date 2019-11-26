@@ -1,0 +1,3 @@
+# DOCUMENT FOR YOU
+
+（＾∀＾●）ﾉｼ

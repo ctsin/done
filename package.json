@@ -1,0 +1,27 @@
+{
+  "name": "@ctsin/make-it-done",
+  "version": "1.0.0",
+  "description": "It's a demostration for npm package publication.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ctsin/done.git"
+  },
+  "keywords": [
+    "npm",
+    "done",
+    "demostration",
+    "package",
+    "react"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Chris Tsing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctsin/done/issues"
+  },
+  "homepage": "https://github.com/ctsin/done#readme"
+}
